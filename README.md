@@ -1,3 +1,7 @@
+### Description:
+
+STOP n’d EAT is a visually engaging web application designed for online food showcasing and ordering. This project features a streamlined interface where users can browse food items, read brief descriptions, and place orders. Additionally, it includes a contact form for collecting customer details, enhancing communication between the business and its customers.
+
 ### Features:
 
 1. **Home Navigation**:

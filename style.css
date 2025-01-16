@@ -1,0 +1,79 @@
+li {
+  display: inline-block;
+}
+.navbar {
+  text-align: center;
+  border-radius: 30px;
+  background-color: black;
+  color: white;
+  padding-bottom: 15px;
+  padding-top: 1px;
+}
+a {
+  color: gray;
+}
+a:hover {
+  color: aliceblue;
+}
+.food1 {
+  display: flex;
+  justify-content: center;
+  border-style: double;
+  border-color: black;
+  border-width: 2px;
+  height: 330px;
+  display: inline-block;
+  text-align: center;
+}
+.food2 {
+  text-align: center;
+  border-style: double;
+  border-color: black;
+  border-width: 2px;
+  height: 330px;
+  display: inline-block;
+}
+.food3 {
+  border-style: double;
+  border-color: black;
+  border-width: 2px;
+  height: 330px;
+  display: inline-block;
+  text-align: center;
+}
+img,
+p {
+  text-align: center;
+  width: 300px;
+}
+.receipe {
+  justify-content: center;
+  margin-top: 30px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+}
+.contact {
+  text-align: center;
+}
+.input_1 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  margin-top: 10px;
+}
+label {
+  height: 30px;
+  width: 80px;
+  align-items: center;
+  display: flex;
+}
+.place {
+  height: 25px;
+  width: 200px;
+}
+.button {
+  display: flex;
+  height: 30px;
+  justify-content: center;
+}
